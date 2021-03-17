@@ -1,0 +1,26 @@
+{
+  "name": "serverless-aws",
+  "version": "1.0.0",
+  "description": "A simple serverless fuction to return records from a database",
+  "main": "handler.js",
+  "dependencies": {
+    "mongodb": "^3.6.5"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erickknaebel/simple-serverless-aws-function.git"
+  },
+  "keywords": [
+    "serverless",
+    "aws",
+    "function"
+  ],
+  "author": "Erick Knaebel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erickknaebel/simple-serverless-aws-function/issues"
+  },
+  "homepage": "https://github.com/erickknaebel/simple-serverless-aws-function#readme"
+}
